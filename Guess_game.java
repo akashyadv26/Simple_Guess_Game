@@ -16,7 +16,7 @@ import java.util.*;
                 if (inp == guess) {
                     System.out.println("Congrats You Won !!");
                 } else {
-                    System.out.println("Oops! You Lost The Game");
+                    System.out.println("Incorrect. Try again!");
                     System.out.println("Opponent Number is :- " + guess);
                 }
                 System.out.println("Do You Want to Continue ? ");
